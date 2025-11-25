@@ -43,6 +43,7 @@ It includes Jupyter notebooks, external resource links, and structured folders f
 - SQLBolt Lessons — https://sqlbolt.com/
 
 ### Practice
+- SQL Practice — https://www.sql-practice.com/
 - LeetCode SQL Problems
 - StrataScratch — real-world interview SQL
 - DataLemur — FAANG-style SQL practice
