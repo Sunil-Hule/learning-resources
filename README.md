@@ -12,16 +12,10 @@ It includes Jupyter notebooks, external resource links, and structured folders f
 ## Python
 
 ### Learning
-- **Books**
+- **Books and Videos**
   - Automate the Boring Stuff with Python - 📖[Book](https://automatetheboringstuff.com/)
   - Object-Oriented Programming (OOP) - 🎥[Video](https://www.youtube.com/watch?v=qiSCMNBIP2g)
   - Pandas - 📖[Documentation](https://pandas.pydata.org/docs/user_guide/10min.html)
-- **Core Topics**
-  - Object-Oriented Programming (OOP)
-  - Modules & Packages
-  - File Handling
-  - Error & Exception Handling
-  - Pandas
 
 ### Practice
 - **Jupyter Notebooks** (located in `/Python/`)
