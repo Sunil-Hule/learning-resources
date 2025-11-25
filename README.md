@@ -25,18 +25,19 @@ It includes Jupyter notebooks, external resource links, and structured folders f
 
 ### Practice
 - **Jupyter Notebooks** (located in `/Python/`)
-  - Basics.ipynb
-  - Data Types.ipynb
-  - Loops & Conditions.ipynb
-  - Functions.ipynb
-  - OOP.ipynb
-  - *(More notebooks will be added)*
+  - [1. Introduction To Python.ipynb](https://github.com/Sunil-Hule/learning-resources/blob/main/Python/1.%20Introduction%20To%20Python.ipynb)
+  - [2. Conditions and Loops.ipynb](https://github.com/Sunil-Hule/learning-resources/blob/main/Python/2.%20Conditions%20and%20Loops.ipynb)
+  - [3. Patterns.ipynb](https://github.com/Sunil-Hule/learning-resources/blob/main/Python/3.%20Patterns.ipynb)
+  - [4. More on Loops.ipynb](https://github.com/Sunil-Hule/learning-resources/blob/main/Python/4.%20More%20on%20Loops.ipynb)
+  - [5.6. Strings, List & 2D List.ipynb](https://github.com/Sunil-Hule/learning-resources/blob/main/Python/5.6.%20Strings%2C%20List%20%26%202D%20List.ipynb)
+  - [7. Functions.ipynb](https://github.com/Sunil-Hule/learning-resources/blob/main/Python/7.%20%20Functions.ipynb)
+  - [8. Tuples, Dictionary And Sets.ipynb](https://github.com/Sunil-Hule/learning-resources/blob/main/Python/8.%20Tuples%2C%20Dictionary%20And%20Sets.ipynb)
 
 - **LeetCode (Python Section)**
   - Arrays, Strings, Hashmaps
+  - Two Pointer
   - Recursion
   - Sliding Window
-  - Dynamic Programming
 
 ---
 
@@ -55,4 +56,3 @@ It includes Jupyter notebooks, external resource links, and structured folders f
 
 ---
 
-## Repository Structure
