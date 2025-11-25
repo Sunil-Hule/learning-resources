@@ -28,7 +28,7 @@ It includes Jupyter notebooks, external resource links, and structured folders f
   - [8. Tuples, Dictionary And Sets.ipynb](https://github.com/Sunil-Hule/learning-resources/blob/main/Python/8.%20Tuples%2C%20Dictionary%20And%20Sets.ipynb)
 
 - **LeetCode (Python Section)**
-  - Arrays, Strings, Hashmaps
+  - Arrays, Strings, Linked-Lists, Hashmaps, Stacks, Queues
   - Two Pointer
   - Recursion
   - Sliding Window
