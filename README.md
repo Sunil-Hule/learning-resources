@@ -51,3 +51,11 @@ It includes Jupyter notebooks, external resource links, and structured folders f
 
 ---
 
+## Mathematics
+
+### Probability
+- STAT 110 - Harvard [Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- MIT 18.650 Statistics for Applications [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+
+---
+
